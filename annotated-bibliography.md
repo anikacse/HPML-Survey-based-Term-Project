@@ -2,7 +2,6 @@
 
 <b>CS 5463/4953 – Survey Based Term Project</b><br>
 <b>Annotated Bibliography of Literature Found</b><br><br>
-
 <b>Survey Title:</b> A Survey of Scalable Graph Neural Network Training Techniques on GPU Architectures
 
 </div>
@@ -14,7 +13,8 @@
 [F1] Kipf, T. N., & Welling, M. (2017). Semi-Supervised Classification with Graph Convolutional Networks (ICLR 2017).  
 URL: https://openreview.net/forum?id=SJU4ayYgl  
 
-**Annotation:** This paper introduces Graph Convolutional Networks (GCNs), one of the most influential baseline architectures in graph learning. It uses neighborhood aggregation in a simple full-batch formulation. The method is computationally efficient on small citation graphs but becomes difficult to scale to large graphs. It is foundational because many later scalable systems are designed around the limitations of GCN training.
+**Annotation**: This paper introduces Graph Convolutional Networks (GCNs), one of the most influential baseline architectures in graph learning. It uses neighborhood aggregation in a simple full-batch formulation. The method is computationally efficient on small citation graphs but becomes difficult to scale to large graphs. It is foundational because many later scalable systems are designed around the limitations of GCN training.
+
 ---
 
 [F2] Hamilton, W., Ying, Z., & Leskovec, J. (2017). Inductive Representation Learning on Large Graphs (NeurIPS 2017).  
