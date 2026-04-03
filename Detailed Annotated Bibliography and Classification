@@ -9,7 +9,7 @@ they achieve.
 ---
 
 ## CLASS I: Foundational Papers (4)
-**Establishes baseline GNN architectures and identifies key scalability bottlenecks that motivate all subsequent work.
+**Establishes baseline GNN architectures and identifies key scalability bottlenecks that motivate all subsequent work.**
 **Primary Papers: F1, F2, F3, F4 
 ### [F1] Kipf, T. N., & Welling, M. (2017). Semi-Supervised Classification with Graph Convolutional Networks (ICLR 2017).  
 URL: https://openreview.net/forum?id=SJU4ayYgl  
